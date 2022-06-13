@@ -22,7 +22,7 @@
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-2320232?style=for-the-badge&logo=FileZilla&logoColor=white)
 
-![SVN](https://img.shields.io/badge/SVN-FF6C37?style=for-the-badge&logo=SVN&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-230769AD?style=for-the-badge&logo=SVN&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -31,7 +31,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-FF6C37?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-23563D7C?style=for-the-badge&logo=windows&logoColor=white)
 
 
 
