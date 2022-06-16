@@ -23,7 +23,7 @@
 ![FileZilla](https://img.shields.io/badge/FileZilla-2320232?style=for-the-badge&logo=FileZilla&logoColor=white)
 
 ![SVN](https://img.shields.io/badge/SVN-230769AD?style=for-the-badge&logo=SVN&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
