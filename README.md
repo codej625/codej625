@@ -13,7 +13,7 @@
 ![ReactNative](https://img.shields.io/badge/reactnative-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
-![PHP](https://img.shields.io/badge/Php-FF6C37?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/Php-FF6D37?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B10.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
