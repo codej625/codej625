@@ -19,12 +19,20 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FF6C27?style=for-the-badge&logo=eclipse&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-2320332?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-2310332?style=for-the-badge&logo=postman&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-2320232?style=for-the-badge&logo=FileZilla&logoColor=white)
 
 ![SVN](https://img.shields.io/badge/SVN-230769AD?style=for-the-badge&logo=SVN&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23ED8B00.svg?style=for-the-badge&l
+
+
+
+
+
+
+
+t&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
