@@ -24,6 +24,7 @@
 ![Postman](https://img.shields.io/badge/Postman-2310332?style=for-the-badge&logo=postman&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%230762AD?style=for-the-badge&logo=FileZilla&logoColor=white)
+![Sts](https://img.shields.io/badge/Sts-FF6C27?style=for-the-badge&logo=sts&logoColor=white)
 
 ![SVN](https://img.shields.io/badge/SVN-%230769AD?style=for-the-badge&logo=SVN&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%223ED8B00.svg?style=for-the-badge&lt&logoColor=white)
