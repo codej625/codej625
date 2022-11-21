@@ -24,8 +24,8 @@
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%230762AD?style=for-the-badge&logo=FileZilla&logoColor=white)
 
-![SVN](https://img.shields.io/badge/SVN-230769AD?style=for-the-badge&logo=SVN&logoColor=white)
-![Git](https://img.shields.io/badge/git-223ED8B00.svg?style=for-the-badge&lt&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-%230769AD?style=for-the-badge&logo=SVN&logoColor=white)
+![Git](https://img.shields.io/badge/git-%223ED8B00.svg?style=for-the-badge&lt&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
