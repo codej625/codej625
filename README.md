@@ -10,7 +10,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230762AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![ReactNative](https://img.shields.io/badge/reactnative-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![ReactNative](https://img.shields.io/badge/reactnative-%236DB23F.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23015C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 ![Jsp](https://img.shields.io/badge/Jsp-%230762AD.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
