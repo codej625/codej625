@@ -12,7 +12,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![ReactNative](https://img.shields.io/badge/reactnative-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23015C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![Jsp](https://img.shields.io/badge/Jsp-%2320232a.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![Jsp](https://img.shields.io/badge/Jsp-%230762AD.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/Php-FF6D37?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B10.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,7 +22,7 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FF6C27?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-2310332?style=for-the-badge&logo=postman&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-2320232?style=for-the-badge&logo=FileZilla&logoColor=white)
+![FileZilla](https://img.shields.io/badge/FileZilla-230762AD?style=for-the-badge&logo=FileZilla&logoColor=white)
 
 ![SVN](https://img.shields.io/badge/SVN-230769AD?style=for-the-badge&logo=SVN&logoColor=white)
 ![Git](https://img.shields.io/badge/git-223ED8B00.svg?style=for-the-badge&lt&logoColor=white)
