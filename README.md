@@ -38,6 +38,6 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-23563D7C?style=for-the-badge&logo=windows&logoColor=white)
 
-![AWS](https://img.shields.io/badge/aws-223ED8B00?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-FF6C27?style=for-the-badge&logo=aws&logoColor=white)
 
 
