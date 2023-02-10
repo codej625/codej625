@@ -23,7 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FF6C27?style=for-the-badge&logo=eclipse&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-2310332?style=for-the-badge&logo=postman&logoColor=white)
-![PuTTY](https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-EF6C37?style=for-the-badge&logo=putty&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-%230762AD?style=for-the-badge&logo=FileZilla&logoColor=white)
 ![Sts](https://img.shields.io/badge/Sts-FF6C27?style=for-the-badge&logo=sts&logoColor=white)
 
