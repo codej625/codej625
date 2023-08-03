@@ -59,7 +59,8 @@
 > }
 
 > #### cloudOrHosting() => {
-> > ![AWS](https://img.shields.io/badge/aws-efefef?style=for-the-badge&logo=aws&logoColor=white)<br/>
+> > ![AWS](https://img.shields.io/badge/aws-efefef?style=for-the-badge&logo=aws&logoColor=white)
+> > ![cafe24](https://img.shields.io/badge/cafe24-%23316192?style=for-the-badge&logo=macos&logoColor=F0F0F0)<br/>
 
 > }
 
