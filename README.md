@@ -4,20 +4,20 @@
 codej625.site
 
 
-# skills ⌨️
+## skills ⌨️
 
 PHP, Java, Spring, JavaScript, HTML5, CSS
 
 Spring, Bootstrap, jQuery, React, Thymeleaf, Jsp, Node.js, MyBatis
 
-# tool
+## tool
 Visual Studio Code, Eclipse, Postman, PuTTY, FileZilla, Sts, ChatGPT, SVN, Git, Wamp, GitHub
 
-# database
+## database
 Oracle, MySQL, PostgresSQL
 
-# os
+## os
 Mac OS, Windows, Ubuntu
 
-# cloud, hosting
+## cloud, hosting
 AWS, cafe24
