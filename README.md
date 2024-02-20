@@ -3,21 +3,35 @@
 
 codej625.site
 
+## Language ⌨️
+Java, Javascript, PHP, JSP
 
-## SKILLS ⌨️
+<br />
 
-PHP, Java, Spring, JavaScript, HTML5, CSS
+## Framework / Library
+Spring Boot, Bootstrap, jQuery, React, Node.js(Express), MyBatis
 
-Spring, Bootstrap, jQuery, React, Thymeleaf, Jsp, Node.js, MyBatis
+<br />
 
-## TOOL
+## Tool
 Visual Studio Code, Eclipse, Postman, PuTTY, FileZilla, STS, ChatGPT, SVN, Git, Wamp, GitHub
 
-## DATABASE
+<br />
+
+## Database
 Oracle, MySQL, PostgresSQL
 
-## OS
-Mac OS, Windows, Ubuntu
+<br />
 
-## CLOUD, HOSTING
+## OS
+Mac OS, Windows, Linux(Ubuntu)
+
+<br />
+
+## Cloud, Hosting
 AWS, cafe24
+
+<br />
+
+## Front
+HTML5, CSS, Thymeleaf(Layout)
