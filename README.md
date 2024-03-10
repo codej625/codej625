@@ -20,7 +20,7 @@ Spring Boot / Bootstrap / jQuery / React / Express(Node.js) / MyBatis
 <br />
 
 ## Tool
-VSC / Eclipse / Postman / PuTTY / FileZilla / STS / ChatGPT / SVN / Git / Wamp / GitHub / Copilot
+VSC / Eclipse / Postman / PuTTY / FileZilla / STS / ChatGPT / Copilot / SVN / Git(GitHub) / Wamp
 
 <br />
 
@@ -39,5 +39,5 @@ MySQL / PostgreSQL
 
 <br />
 
-## Cloud, Hosting
-AWS / Cafe24
+## Cloud, Hosting Service, Server
+AWS / Cafe24 / Apache Tomcat
