@@ -1,37 +1,43 @@
-</br>
+<br />
+
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=codej625%20&fontSize=90" />
 
-codej625.site
+<br />
 
-## Language ⌨️
-Java, Javascript, PHP, JSP
+Hello👋, I am a developer codej625.🙂<br />
+(By the way, June 25th is my birthday🎂🎉)
+
+<br /><br />
+
+## Language
+Java / Javascript(Node.js) / PHP / JSP
 
 <br />
 
 ## Framework / Library
-Spring Boot, Bootstrap, jQuery, React, Node.js(Express), MyBatis
+Spring Boot / Bootstrap / jQuery / React / Express(Node.js) / MyBatis
 
 <br />
 
 ## Tool
-Visual Studio Code, Eclipse, Postman, PuTTY, FileZilla, STS, ChatGPT, SVN, Git, Wamp, GitHub
+VSC / Eclipse / Postman / PuTTY / FileZilla / STS / ChatGPT / SVN / Git / Wamp / GitHub / Copilot
 
 <br />
 
-## Database
-Oracle, MySQL, PostgresSQL
+## Web Publishing
+HTML / CSS / Thymeleaf(Java template engine)
 
 <br />
 
 ## OS
-Mac OS, Windows, Linux(Ubuntu)
+MacOS / Windows / Linux(Ubuntu)
+
+<br />
+
+## Database
+MySQL / PostgreSQL
 
 <br />
 
 ## Cloud, Hosting
-AWS, cafe24
-
-<br />
-
-## Front
-HTML5, CSS, Thymeleaf(Layout)
+AWS / Cafe24
