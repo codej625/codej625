@@ -5,7 +5,7 @@
 <br />
 
 Hello👋, I am a developer codej625.🙂<br />
-(By the way, June 25th is my birthday🎂🎉)
+(June 25th is the date of my birthday🎂🎉)
 
 <br /><br />
 
@@ -15,12 +15,12 @@ Java / Javascript(Node.js) / PHP / JSP
 <br />
 
 ## Framework / Library
-Spring Boot / Bootstrap / jQuery / React / Express(Node.js) / MyBatis
+Spring Boot / jQuery / React / Express(Node.js)
 
 <br />
 
 ## Tool
-VSC / Eclipse / Postman / PuTTY / FileZilla / STS / ChatGPT / Copilot / SVN / Git(GitHub) / Wamp
+VSC / Eclipse(STS) / Postman / PuTTY / FileZilla / ChatGPT / Copilot / Git(GitHub) / Wamp / Apache JMeter
 
 <br />
 
@@ -39,7 +39,7 @@ MySQL / PostgreSQL
 
 <br />
 
-## Cloud, Hosting Service, Server
+## Cloud, Server, Hosting Service
 AWS / Cafe24 / Apache Tomcat
 
 <br /><br /><br /><br /><br />
@@ -55,7 +55,7 @@ AWS / Cafe24 / Apache Tomcat
 4. 작업 일자를 확인한다. (버퍼 타임을 꼭 넣도록 한다. 작업 일자 조정 필요시 요청한다.)
 5. 최종적으로 정해진 내용을 메일 혹은 문서로 만들어 담당자에게 전달하고 확인받는다.
 
-> 문서는 상대방이 이해할 수 있는 기준에 맞춰 작성한다.
-> 상대방에게 확인받는 것이 중요하다.
-> 되도록 바로 전달한다.
+- 문서는 상대방이 이해할 수 있는 기준에 맞춰 작성한다.
+- 상대방에게 확인받는 것이 중요하다.
+- 되도록 바로 전달한다.
 ```
