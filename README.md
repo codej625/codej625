@@ -20,7 +20,7 @@ Spring Boot / jQuery / React / Express(Node.js)
 <br />
 
 ## Tool
-VSC / Eclipse(STS) / Postman / PuTTY / FileZilla / ChatGPT / Copilot / Git(GitHub) / Wamp / Apache JMeter
+VSC / Eclipse(STS) / IntelliJ / Postman / PuTTY / FileZilla / ChatGPT / Git(GitHub) / Wamp / Apache JMeter
 
 <br />
 
