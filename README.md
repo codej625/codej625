@@ -20,8 +20,8 @@ Spring Boot / jQuery / React / Express
 <br />
 
 ## Tool
-VSC / Eclipse(STS) / IntelliJ / Postman / PuTTY<br /> 
-FileZilla / ChatGPT / Git(GitHub) / Wamp / Apache JMeter
+VSC / Eclipse / IntelliJ / Postman / PuTTY<br /> 
+FileZilla / Git(GitHub) / Apache JMeter / Docker
 
 <br />
 
@@ -41,7 +41,7 @@ MySQL / PostgreSQL
 <br />
 
 ## Cloud, Server, Hosting Service
-AWS / Cafe24 / Apache Tomcat / Node.js(Express) / Docker
+AWS / Cafe24 / Apache Tomcat / Node.js(Express)
 
 
 <br /><br /><br /><br />
