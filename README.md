@@ -1,5 +1,3 @@
-![image](https://github.com/codej625/codej625/assets/77843136/d315926d-00d5-46a2-b2b4-20d715ad2147)<br />
-
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=codej625%20&fontSize=90" />
 
 <br />
