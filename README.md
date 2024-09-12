@@ -8,7 +8,7 @@ Hello👋, I am a developer codej625.🙂<br />
 <br /><br />
 
 ## Language
-Java / Javascript(Node.js) / PHP(Legacy version 5.x) / JSP
+Java / Javascript / PHP(Legacy version 5.x)
 
 <br />
 
@@ -18,13 +18,13 @@ Spring Boot / jQuery / React / Express
 <br />
 
 ## Tool
-VSC / Eclipse / IntelliJ / Postman / PuTTY<br /> 
-FileZilla / Git(GitHub) / Apache JMeter / Docker
+VSC / IntelliJ / Postman / PuTTY<br /> 
+FileZilla / Git / Apache JMeter / Docker
 
 <br />
 
 ## Web Publishing
-HTML / CSS / Thymeleaf(Java template engine) / Smarty(PHP Template Engine)
+HTML5 / CSS3 / JSP(JavaServer Pages) / Thymeleaf(Java template engine) / Smarty(PHP Template Engine)
 
 <br />
 
@@ -34,13 +34,12 @@ MacOS / Windows / Linux(Ubuntu)
 <br />
 
 ## Database
-MySQL / PostgreSQL
+Oracle / MySQL / PostgreSQL
 
 <br />
 
 ## Cloud, Server, Hosting Service
 AWS / Cafe24 / Apache Tomcat / Node.js(Express)
-
 
 <br /><br /><br /><br />
 
