@@ -6,6 +6,8 @@ Hello👋, I am a developer codej625.🙂
 <br />
 (June 25th is the date of my birthday🎂🎉)
 
+---
+
 <br />
 <br />
 
@@ -49,13 +51,9 @@ AWS / Cafe24 / Apache Tomcat / Node.js(Express)
 <br />
 <br />
 
----
-
 * 협업 시 codej625의 업무 프로세스 정리 방법
 
 ---
-
-<br />
 
 1. 담당자가 업무 요청을 한다. (담당자 -> 개발자)
 
