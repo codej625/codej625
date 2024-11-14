@@ -2,10 +2,12 @@
 
 <br />
 
-Hello👋, I am a developer codej625.🙂<br />
+Hello👋, I am a developer codej625.🙂
+<br />
 (June 25th is the date of my birthday🎂🎉)
 
-<br /><br />
+<br />
+<br />
 
 ## Language
 Java / Javascript / PHP(Legacy version 5.x)
@@ -18,7 +20,8 @@ Spring Boot / jQuery / React / Express
 <br />
 
 ## Tool
-VSC / IntelliJ / Postman / PuTTY<br /> 
+VSC / IntelliJ / Postman / PuTTY
+<br /> 
 FileZilla / Git / Apache JMeter / Docker
 
 <br />
@@ -41,7 +44,10 @@ Oracle / MySQL / PostgreSQL
 ## Cloud, Server, Hosting Service
 AWS / Cafe24 / Apache Tomcat / Node.js(Express)
 
-<br /><br /><br /><br />
+<br />
+<br />
+<br />
+<br />
 
 ---
 
