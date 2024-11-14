@@ -15,7 +15,7 @@ Java / Javascript / PHP(Legacy version 5.x)
 <br />
 
 ## Framework / Library
-Spring Boot / jQuery / React / Express
+Spring Boot / jQuery / React / Zustand / Express
 
 <br />
 
