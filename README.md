@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=codej625%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&width=800&section=header&text=codej625%20&fontSize=90" />
 
 <br />
 
@@ -29,7 +29,9 @@ FileZilla / Git / Apache JMeter / Docker
 <br />
 
 ## Web Publishing
-HTML5 / CSS3 / JSP(JavaServer Pages) / Thymeleaf(Java template engine) / Smarty(PHP Template Engine)
+HTML5 / CSS3 / JSP(JavaServer Pages)
+<br /> 
+Thymeleaf(Java template engine) / Smarty(PHP Template Engine)
 
 <br />
 
