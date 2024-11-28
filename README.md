@@ -12,12 +12,12 @@ Hello👋, I am a developer codej625.🙂
 <br />
 
 ## Language
-Java / Javascript / PHP(Legacy version 5.x)
+Java / Javascript / Typescript / PHP(Legacy version 5.x)
 
 <br />
 
 ## Framework / Library
-Spring Boot / jQuery / React / Zustand / React Query / Express
+Spring Boot / jQuery / React / Zustand / React Query / NestJS
 
 <br />
 
