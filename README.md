@@ -12,19 +12,19 @@ Hello👋, I am a developer codej625.🙂
 <br />
 
 ## Language
-Java / Javascript / Typescript / PHP(Legacy version 5.x)
+Java / Javascript / Typescript / Python / PHP(Legacy version 5.x)
 
 <br />
 
 ## Framework / Library
-Spring Boot / jQuery / React / Zustand / React Query / NestJS
+Spring Boot / jQuery / React / Zustand / React Query / NestJS / FastAPI
 
 <br />
 
 ## Tool
-VSC / IntelliJ / Postman / PuTTY
+VSC / IntelliJ / Postman / PuTTY / Cursor
 <br /> 
-FileZilla / Git / Apache JMeter / Docker
+FileZilla / Git / Apache JMeter
 
 <br />
 
@@ -45,8 +45,8 @@ Oracle / MySQL / PostgreSQL
 
 <br />
 
-## Cloud, Server, Hosting Service
-AWS / Cafe24 / Apache Tomcat / Node.js(Express)
+## Cloud, DevOps
+AWS / Apache Tomcat / Nginx / K8s / Docker
 
 <br />
 <br />
