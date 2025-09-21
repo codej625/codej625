@@ -17,7 +17,9 @@ Java / Javascript / Typescript / Python / PHP(Legacy version 5.x)
 <br />
 
 ## Framework / Library
-Spring Boot / jQuery / React / Zustand / React Query / NestJS / FastAPI
+Spring Boot / NestJS / Next.js / FastAPI
+<br />
+jQuery / React / Zustand / React Query
 
 <br />
 
@@ -45,8 +47,10 @@ Oracle / MySQL / PostgreSQL
 
 <br />
 
-## Cloud, DevOps
-AWS / Apache Tomcat / Nginx / K8s / Docker
+## Cloud, DevOps / Cache
+AWS / Apache Tomcat / Nginx
+<br />
+K8s / Docker / Redis
 
 <br />
 <br />
